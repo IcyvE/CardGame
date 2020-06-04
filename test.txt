@@ -2,8 +2,4 @@ git is a version control system.
 git isn't a unfree software.
 so let begin test.
 its a change 1.
-<<<<<<< HEAD
 New ideas.
-=======
-A new asdasd.
->>>>>>> ecbd5ad... ctest
